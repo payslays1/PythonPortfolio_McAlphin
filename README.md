@@ -1314,10 +1314,7 @@ celsius_val = ((fahrenheit_val - 32) *(5/9))
 
 print(celsius_val)
 ```
-
-    37.22222222222222
-
-
+ 37.22222222222222
 
 ```python
 fahrenheit_val2 = 43
@@ -1325,7 +1322,6 @@ fahrenheit_val2 -32) * (5/9))
 
 print(celsius_val2)
 ```
-
     6.111111111111112
 
 
